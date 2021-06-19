@@ -9,7 +9,7 @@
 #include <string.h>
 #include <ctype.h>
 
-#define KEYWORD_LENGTH 21
+#define KEYWORD_LENGTH 20
 #define TABULA_LENGTH 44
 #define MESSAGE_LENGTH 251
 const char CHARSET[] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 .,;!-'?";
